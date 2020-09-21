@@ -1,6 +1,6 @@
 backend:
   name: 19034233
-  repo: githubusername/mybrookesblog # Path to your GitHub repository
+  repo: 19034233/mybrookesblog # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: fontasia.netlify.app #Your site on netlify
   use_graphql: true
