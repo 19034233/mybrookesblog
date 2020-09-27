@@ -4,8 +4,8 @@ header_text: Fontasia
 footer_text: Copyright 2020 Anna Gray
 header_feature_image: ../uploads/aa-disney.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/mickey-head-blank-plain.jpg
+favicon: ../uploads/mickey-head-blank-plain.jpg
 gridlayout: false
 fixednavbar: false
 upzoom: true
