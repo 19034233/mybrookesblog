@@ -1,20 +1,25 @@
 ---
 layout: page
 title: About
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/mickey.jpg
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+Hello! Welcome to Fontasia.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+This blog was created for the Typography Module, as part of my degree in Media, Journalism and Publishing. Our brief is to explore a particular type of typography, producing articles on our findings.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+In this particular blog, I will look at the typography used for individual Disney and Disney Pixar films. I noted that each film has its own branding, which gives it a distinctive feel. Alongside the imagery and colour palettes, many Disney films have corresponding logos, and they all have their own typography. 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+Each article will focus on a different film, examining the posters, logos and merchandise, and their corresponding typography. I want to discuss the purpose of each typographic choice, whilst ruminating on their effectiveness in reflecting the films they represent. 
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I hope you will find the contents interesting!
+
+Thanks for reading,
+
+Anna
