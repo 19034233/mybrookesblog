@@ -2,10 +2,10 @@ title: Fontasia
 description: A blog exploring the typography of Disney Pixar films
 header_text: Fontasia
 footer_text: Copyright 2020 Anna Gray
-header_feature_image: ../uploads/aa-disney.jpg
+header_feature_image: ../uploads/aaa-disney.jpg
 bannerheight: 20vmax
-logo: ../uploads/mickey-head-blank-plain.jpg
-favicon: ../uploads/mickey-head-blank-plain.jpg
+logo: ../uploads/aa-mouse.png
+favicon: ../uploads/aa-mouse.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
