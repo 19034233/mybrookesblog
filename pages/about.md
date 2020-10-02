@@ -8,7 +8,7 @@ header_feature_image: ../uploads/mickey.jpg
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Hello! Welcome to Fontasia.
 
