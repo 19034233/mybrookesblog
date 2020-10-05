@@ -8,7 +8,7 @@ comments: true
 ---
 When the Disney blockbuster *Frozen* was announced, the first thing I saw was the logo. As a piece of typography, I think it perfectly reflects and encapsulates the themes and the overall feel of the film. But just what exactly makes it work?
 
-![](../uploads/frozen-by-disney.jpg)
+![](../uploads/frozen.jpg)
 
 The choice of blocky, uppercase text may seem like a strange decision for the logo of a children’s film; typography of this style is often attributed to masculine tropes, or epic, ammo-packed heist /crime flicks. However, when we analyse the storyline of the film, the typography compliments it exactly. *Frozen* tells the tale of Arendelle, a city flourishing in an idyllic springtime, which is suddenly swallowed by a seemingly *‘eternal Winter’*. The impenetrable sans-serif, uppercase typography reflects the unflinching Winter perfectly. Indeed, on the movie posters, the logo looks as if it is made of gleaming ice. Combined with the revealing title, we instantly know the key themes and settings of the film. The hyper-realistic ice of the movie-poster typography also informs the audience that the film is CGI animated. Unlike many of the hand-drawn Disney fonts of previous years, *Frozen* is part of a new era of design.
 
