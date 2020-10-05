@@ -2,7 +2,7 @@
 layout: post
 title: Typography of 'Moana'
 date: 2020-10-05T10:27:07.954Z
-header_feature_image: ../uploads/disney-moana.jpg
+header_feature_image: ../uploads/moo.jpg
 comments: true
 ---
 In order to begin analysing the typography of *Moana,* we first need to observe the cultural influences of the film. The film is set on the fictional island of Motunui, said to reside in the Pacific Ocean. The island itself is described as “Pan-Pacific” by Disney, and certainly draws on the cultural influences of Pacific islands. Personally, I think the visual references of Motunui prominently draw on Hawaiian culture, with Hawaiian-inspired tattoo design, clothing, jewellery and settings. Many of the clothing, houses and utensils used by the villagers appear to be crafted out of wood or bone, as can be seen in the picture below.
