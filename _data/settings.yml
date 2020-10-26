@@ -11,5 +11,5 @@ fixednavbar: false
 upzoom: true
 items:
   - name: About Me
-    siteurl: file:///C:/Users/annar/Downloads/3_Portfolio%20(1)/3_Portfolio/portfolio.html
+    siteurl: /aboutme
     tab: true
