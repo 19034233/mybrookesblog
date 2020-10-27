@@ -121,7 +121,7 @@ body {
 /* Fact Picture */
 .fact_image {
 	max-width: 400px;
-	border: white solid 10px;
+	border: white; solid 10px;
 
 	display: block;
 	margin: 20px auto 0 auto;
