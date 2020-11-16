@@ -2,10 +2,12 @@
 layout: post
 title: Typography of The Incredibles
 date: 2020-11-16T12:07:54.444Z
-header_feature_image: ../uploads/inc-logo.jpg
+header_feature_image: ../uploads/incredible.jpg
 comments: true
 ---
 This week I have decided to analyse the typography of the 2004 Disney Pixar film *‘The Incredibles’.* Unlike any of the previous fonts, the logo for *The Incredibles* includes a title design and a typographic icon. While both use the same typography, the icon is coloured differently and uses only lowercase text.
+
+![](../uploads/inc-logo.jpg)
 
 The film itself follows the story of two superheroes, Mr Incredible and Elastigirl, who fall in love and start a family. After a rescue-mission gone wrong, superheroes are banned by the police, and the couple must learn to live without the use of their powers. This is made all the more difficult as their three children develop superpowers too. However, when a supervillain emerges, the family have no choice but to leave their civilian lives behind and become ‘The Incredibles’.
 
